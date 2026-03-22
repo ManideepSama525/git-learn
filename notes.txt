@@ -4,3 +4,4 @@
 "Line from master branch"
 "Line from feature branch"
 
+"Another line from master"

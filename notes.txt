@@ -1,1 +1,2 @@
 "Practicing clean commits"
+"This is from feature branch"

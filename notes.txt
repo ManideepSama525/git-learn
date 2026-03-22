@@ -1,3 +1,4 @@
 "Practicing clean commits"
 "This is from feature branch"
 "More work in feature branch"
+"Line from master branch"

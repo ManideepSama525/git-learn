@@ -5,3 +5,4 @@
 "Line from feature branch"
 
 "Another line from master"
+Line added from GitHub UI

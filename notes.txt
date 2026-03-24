@@ -5,7 +5,11 @@
 "Line from feature branch"
 "Another line from master"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Line added from GitHub UI
+=======
+"Line from rebase branch"
+>>>>>>> Stashed changes
 =======
 "Line from rebase branch"
 >>>>>>> Stashed changes

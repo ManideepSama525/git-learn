@@ -7,3 +7,4 @@
 Line added from GitHub UI
 "Line from rebase branch"
 "Line from rebase branch
+"Line from CMD"
